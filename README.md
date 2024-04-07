@@ -6,10 +6,6 @@
   <img src="https://top.gg/api/widget/1225461168827662366.svg">
 </a>
 
-<a href="https://discord.gg/DSZRUdYRXS">
-  <img src="https://discord.com/api/guilds/1164868733420970106/widget.json">
-</a>
-
 <h3 align="center">Trippleslash</h3>
 
 <h3 align="left">Connect with me:</h3>
