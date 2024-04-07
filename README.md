@@ -6,6 +6,8 @@
   <img src="https://top.gg/api/widget/1225461168827662366.svg">
 </a>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/1145189524566196316)
+
 <h3 align="center">Trippleslash</h3>
 
 <h3 align="left">Connect with me:</h3>
