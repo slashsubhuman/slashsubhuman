@@ -6,7 +6,7 @@
   <img src="https://top.gg/api/widget/1225461168827662366.svg">
 </a>
 
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1145189524566196316?theme=dark&hideActivity=whenNotUsed&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=penis)](https://discord.com/users/1145189524566196316)
 
 <h3 align="center">Trippleslash</h3>
 
