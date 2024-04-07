@@ -6,8 +6,6 @@
   <img src="https://top.gg/api/widget/1225461168827662366.svg">
 </a>
 
-<iframe src="https://discord.com/widget?id=1164868733420970106&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 <h3 align="center">Trippleslash</h3>
 
 <h3 align="left">Connect with me:</h3>
