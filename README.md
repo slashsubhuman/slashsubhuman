@@ -1,7 +1,3 @@
-<a href="https://top.gg/bot/1225811092715077673">
-  <img src="https://top.gg/api/widget/1225811092715077673.svg">
-</a>
-
 <a href="https://top.gg/bot/1225461168827662366">
   <img src="https://top.gg/api/widget/1225461168827662366.svg">
 </a>
